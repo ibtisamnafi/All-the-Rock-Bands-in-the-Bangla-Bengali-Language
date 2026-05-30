@@ -1,92 +1,112 @@
 All The Rock Bands of Bangla (Bengali) Language [From oldest to newest release]
 
-01. Shangbigno Pakhikul O Kolkata Bishayak (1977) -----> Moheener Ghoraguli
-02. Ajaana UDonto bostu ba Aw-Oo-Baw (1978) -----> Moheener Ghoraguli
-03. Drishyomaan Moheener Ghoraguli (1979) -----> Moheener Ghoraguli
-04. Super Souls (1980) -----> Souls
-05. Colleger Er Corridore (1982) -----> Souls   [missing: 1. Khujish Jaharey,  2. Mone Koro]
-06. Feedback: Volume 1 (1985) -----> Feedback
-07. Manush Matir Kachakachi (1987) -----> Souls
-08. Ullash (1987) -----> Feedback
-09. Chachir Dukkho (1987) -----> Chime
-10. Station Road (1987) -----> Feelings/James
-??. Swadhinota Chai (1987) -----> Prometheus [Missing]
-11. East & West (1988) -----> Souls   [missing: 1. Tumi Aami Noy Aaj,  2. Josna Raate, 3. Aara Chatgaiya Noujowan]
-??. Renaissance (1988) -----> Renaissance [Missing]
-12. Ahoban (1989) -----> Nova
-13. Mela (1990) -----> Feedback
-14. Muktir Prottashay (1990) -----> Prometheus
-15. RAJAKARER TALIKA CHAI (1990) -----> Nova
-16. Protisruti (1991) -----> Miles
-17. Sraboner Megh (1991) -----> Different Touch
-18. Warfaze (1991) -----> Warfaze
-19. RockStrata (1991) -----> RockStrata
-20. Muktijuddho (1991) -----> ARK
-21. Hooray! (1991) -----> Compilation Album, Various Artists
-22. Joar (1992) -----> Feedback
-23. Projonmer Songram (1992) -----> Prometheus [missing: 1. Besto Ekhon,  2. Ei Mon, 3. Piya]
-24. Nishshobdo Kolahol (1992) -----> In Dhaka
-25. LRB 1 (1992) -----> LRB
-26. LRB 2 (1992) -----> LRB
-27. E Emon Porichoy (1993) -----> Souls
-28. Prottasha (1993) -----> Miles
-29. Tritio Bishsho (1993) -----> Renaissance
-30. Sajano Prithibi (1993) -----> Different Touch
-31. Jail Theke Bolchi (1993) -----> Feelings/James
-32. School Polatoka Meye (1993) -----> Nova
-33. Sukh (1993) -----> LRB
-34. Bongabdo 1400 (1994) -----> Feedback
-35. Obak Bhalobasha (1994) -----> Warfaze
-36. Tobuo (1994) -----> LRB
-37. Chomok (1994) -----> LRB
-38. Aaj Din Katuk Gaane (1995) -----> Souls
-39. Slogan (1995) -----> Prometheus [missing: 1. Shoshiter Pokkhe]
-40. Ghumonto Shohore (1995) -----> LRB
-41. Capsule 500mg (1995) -----> LRB
-42. Aabar Bachhor Kuri Pore (1995) -----> Moheener Ghoraguli
-43. Prottoy (1996) -----> Miles
-44. Bauliana (1996) -----> Feedback
-45. Jibondhara (1996) -----> Warfaze
-46. Tajmahal (1996) -----> ARK
-47. Nagar Baul (1996) -----> Feelings/James
-48. Bhaiso (1996) -----> Nova
-49. Screw Drivers (1996) -----> LRB
-50. Swapno (1996) -----> LRB
-51. Ferari Mon (Unplugged Live) (1996) -----> LRB
-52. Nari (1996) -----> Chime
-53. Jhora Samayer Gaan (1996) -----> Moheener Ghoraguli
-54. Osomoyer Gaan (1997) -----> Souls
-55. Proyash (1997) -----> Miles
-56. Mon Amar Deho Ghori (1997) -----> Feedback
-57. Proshno (1997) -----> Different Touch
-58. Dhun (1997) -----> Compilation Album, Various Artists
-59. Maya (1997) -----> Moheener Ghoraguli
-60. Aah (1997) -----> Dalchhut
-61. Aar Jani Na (1997) -----> Chandrabindoo
-62. Ekattorer Renaissance (1998) -----> Renaissance
-63. Ashamajik (1998) -----> Warfaze
-64. Hit! Run! Out! (1998) -----> Compilation Album, Various Artists [missing: 1. Orao Manush, 2. Bhalo Lagey Cricket , 3. Sheemahin Shopno]
-65. Lais Fita Lais (1998) -----> Feelings/James
-66. Dhun (1998) -----> LRB
-67. Amader (1998) -----> LRB
-68. Bisshoy (1998) -----> LRB
-69. Gadha (1998) -----> Chandrabindoo
-70. Anondo (1999) -----> Feedback
-71. 6 band "99" (1999) -----> Compilation Album, Various Artists
-??. Best Collection Warfaze 4 in 1 (1999) -----> Warfaze [Missing]
-??. Nova '99 (1999) -----> Nova [Missing]
-72. Khyapar Gaan (1999) -----> Moheener Ghoraguli
-73. Joddha (1999) -----> Prometheus
-74. Cactus (1999) -----> Cactus
-75. Toker Jatno Nin (1999) -----> Chandrabindoo
-76. Mukhorito Jibon (2000) -----> Souls
-77. Probaho (2000) -----> Miles
-78. Prometheus 2000 (2000) -----> Prometheus
-79. Alo (2000) -----> Warfaze
-80. Shadhinota (2000) -----> ARK
-81. Nei Tumi (2000) -----> Compilation Album, Various Artists
-82. Mon Chaile Mon Pabe (2000) -----> LRB
-83. Hridoypur (2000) -----> Dalchhut
-84. Jatra Shuru (2000) -----> Bhoomi
-85. Charpotro (2000) -----> Compilation Album, Various Artists
-86. Trimatrik (2000) -----> Aurthohin
+001. Shangbigno Pakhikul O Kolkata Bishayak (1977) -----> Moheener Ghoraguli
+002. Ajaana UDonto bostu ba Aw-Oo-Baw (1978) -----> Moheener Ghoraguli
+003. Drishyomaan Moheener Ghoraguli (1979) -----> Moheener Ghoraguli
+004. Super Souls (1980) -----> Souls
+005. Colleger Er Corridore (1982) -----> Souls   [missing: 1. Khujish Jaharey,  2. Mone Koro]
+006. Feedback: Volume 1 (1985) -----> Feedback
+007. Manush Matir Kachakachi (1987) -----> Souls
+008. Ullash (1987) -----> Feedback
+009. Chachir Dukkho (1987) -----> Chime
+010. Station Road (1987) -----> Feelings/James
+???. Swadhinota Chai (1987) -----> Prometheus [Missing]
+011. East & West (1988) -----> Souls   [missing: 1. Tumi Aami Noy Aaj,  2. Josna Raate, 3. Aara Chatgaiya Noujowan]
+???. Renaissance (1988) -----> Renaissance [Missing]
+012. Ahoban (1989) -----> Nova
+013. Mela (1990) -----> Feedback
+014. Muktir Prottashay (1990) -----> Prometheus
+015. RAJAKARER TALIKA CHAI (1990) -----> Nova
+016. Protisruti (1991) -----> Miles
+017. Sraboner Megh (1991) -----> Different Touch
+018. Warfaze (1991) -----> Warfaze
+019. RockStrata (1991) -----> RockStrata
+020. Muktijuddho (1991) -----> ARK
+021. Hooray! (1991) -----> Compilation Album, Various Artists
+022. Joar (1992) -----> Feedback
+023. Projonmer Songram (1992) -----> Prometheus [missing: 1. Besto Ekhon,  2. Ei Mon, 3. Piya]
+024. Nishshobdo Kolahol (1992) -----> In Dhaka
+025. LRB 1 (1992) -----> LRB
+026. LRB 2 (1992) -----> LRB
+027. E Emon Porichoy (1993) -----> Souls
+028. Prottasha (1993) -----> Miles
+029. Tritio Bishsho (1993) -----> Renaissance
+030. Sajano Prithibi (1993) -----> Different Touch
+031. Jail Theke Bolchi (1993) -----> Feelings/James
+032. School Polatoka Meye (1993) -----> Nova
+033. Sukh (1993) -----> LRB
+034. Bongabdo 1400 (1994) -----> Feedback
+035. Obak Bhalobasha (1994) -----> Warfaze
+036. Tobuo (1994) -----> LRB
+037. Chomok (1994) -----> LRB
+038. Aaj Din Katuk Gaane (1995) -----> Souls
+039. Slogan (1995) -----> Prometheus [missing: 1. Shoshiter Pokkhe]
+040. Ghumonto Shohore (1995) -----> LRB
+041. Capsule 500mg (1995) -----> LRB
+042. Aabar Bachhor Kuri Pore (1995) -----> Moheener Ghoraguli
+043. Prottoy (1996) -----> Miles
+044. Bauliana (1996) -----> Feedback
+045. Jibondhara (1996) -----> Warfaze
+046. Tajmahal (1996) -----> ARK
+047. Nagar Baul (1996) -----> Feelings/James
+048. Bhaiso (1996) -----> Nova
+049. Screw Drivers (1996) -----> LRB
+050. Swapno (1996) -----> LRB
+051. Ferari Mon (Unplugged Live) (1996) -----> LRB
+052. Nari (1996) -----> Chime
+053. Jhora Samayer Gaan (1996) -----> Moheener Ghoraguli
+054. Osomoyer Gaan (1997) -----> Souls
+055. Proyash (1997) -----> Miles
+056. Mon Amar Deho Ghori (1997) -----> Feedback
+057. Proshno (1997) -----> Different Touch
+058. Dhun (1997) -----> Compilation Album, Various Artists
+059. Maya (1997) -----> Moheener Ghoraguli
+060. Aah (1997) -----> Dalchhut
+061. Aar Jani Na (1997) -----> Chandrabindoo
+062. Ekattorer Renaissance (1998) -----> Renaissance
+063. Ashamajik (1998) -----> Warfaze
+064. Hit! Run! Out! (1998) -----> Compilation Album, Various Artists [missing: 1. Orao Manush, 2. Bhalo Lagey Cricket , 3. Sheemahin Shopno]
+065. Lais Fita Lais (1998) -----> Feelings/James
+066. Dhun (1998) -----> LRB
+067. Amader (1998) -----> LRB
+068. Bisshoy (1998) -----> LRB
+069. Gadha (1998) -----> Chandrabindoo
+070. Anondo (1999) -----> Feedback
+071. 6 band "99" (1999) -----> Compilation Album, Various Artists
+???. Best Collection Warfaze 4 in 1 (1999) -----> Warfaze [Missing]
+???. Nova '99 (1999) -----> Nova [Missing]
+072. Khyapar Gaan (1999) -----> Moheener Ghoraguli
+073. Joddha (1999) -----> Prometheus
+074. Cactus (1999) -----> Cactus
+075. Toker Jatno Nin (1999) -----> Chandrabindoo
+076. Mukhorito Jibon (2000) -----> Souls
+077. Probaho (2000) -----> Miles
+078. Prometheus 2000 (2000) -----> Prometheus
+079. Alo (2000) -----> Warfaze
+080. Shadhinota (2000) -----> ARK
+081. Nei Tumi (2000) -----> Compilation Album, Various Artists
+082. Mon Chaile Mon Pabe (2000) -----> LRB
+083. Hridoypur (2000) -----> Dalchhut
+084. Jatra Shuru (2000) -----> Bhoomi
+085. Charpotro (2000) -----> Compilation Album, Various Artists
+086. Trimatrik (2000) -----> Aurthohin
+087. Dushtu Cheler Dol (2001) -----> Nagar Baul/James [missing: 1. Gotiraaj, 2. Ai Mon Chay Je More]
+088. Smritir Kopat (2001) -----> Prometheus [missing: 1. Tana tana Tan, 2. Jhikki Jhikki, 3. Ami Eka Boro Eka]
+089. Udaan (2001) -----> Bhoomi
+090. Anushilon (2001) -----> Compilation Album, Various Artists
+091. Chaw (2001) -----> Chandrabindoo
+092. Megh Mallar (2001) -----> Lakkhichhara [missing: 1. Rat Be-raate, 2. Sunya Raat]
+093. Biborton (2001) -----> Aurthohin
+094. Feedback Vol 2 (2002) -----> Feedback
+095. Oa Aa (2002) -----> Prometheus [missing: 1. Ha Na]
+096. Haran Majhi (2002) -----> ARK
+097. Thikana (2002) -----> Nova
+098. Sreshtho (2002) -----> Cryptic Fate
+099. Akashchuri (2002) -----> Dalchhut
+100. Isspecial (2002) -----> Bhoomi
+101. Amar Prithibi (2002) -----> Black
+102. Daaknaam (2002) -----> Chandrabindoo
+103. Fossils Vol. 1 (2002) -----> Fossils
+104. Notun Diner Michile (2002) -----> Aurthohin
+105. Onno Shomoy (2002) -----> Artcell
+106. Kingkortobbobimurh (2002) -----> Bangla
